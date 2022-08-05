@@ -71,7 +71,7 @@ Here is the flow of frondend design:
 
 We were introducted to Linux operating system and were made aware of the basic commands. Using **git clone** command we've cloned library files like standard cell library, primitives which are used for synthesis and few verilog codes for practice.
 
-![cloning files](https://user-images.githubusercontent.com/104454253/166092143-aa26356f-46a3-435b-b3d6-0d2fb4d216c2.JPG)
+![Screenshot from 2022-08-05 23-28-55](https://user-images.githubusercontent.com/110079634/183134526-718a4c3b-e68c-46e5-9222-04b924758647.png)
 
 ![cloning_githubfiles](https://user-images.githubusercontent.com/104454253/166092154-d93b2204-88e3-4848-ae98-ff5114ea2afe.JPG)
 
