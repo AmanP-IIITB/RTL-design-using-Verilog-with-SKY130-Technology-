@@ -52,7 +52,8 @@ This report is a final submission of 5-day workshop from [VLSI Sytem Design-IAT]
 	endmodule
 
 **Test Bench**: Using Verilog we can write a test bench to apply stimulus to the RTL design and verify the results of the design by instantiating design with in test bench. Up-front verification becomes very important as design size increases in size and complexity while any project progresses. This ensures simulation results matches with post synthesis results. A test bench can have two parts, the one generates input signals for the model to be tested while the other part checks the output signals from the design under test. It can be represented as follows.
-![Capture2](https://user-images.githubusercontent.com/104454253/166088950-634be5a4-7d5a-4b43-9990-711f8f660aaf.JPG)
+![image](https://user-images.githubusercontent.com/110079634/183130754-becbbedc-d64e-451b-95ab-a76eaa26ea5e.png)
+
 
 **Simulation**: RTL design is checked for adherence to its design specification using simulation by giving sample inputs. This helps finding and fixing bugs in the RTL design in the early stages of design development. 
 
