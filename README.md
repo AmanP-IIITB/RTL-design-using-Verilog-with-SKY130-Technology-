@@ -60,7 +60,7 @@ This report is a final submission of 5-day workshop from [VLSI Sytem Design-IAT]
 **Simulator**: Simulator is the tool used for this process. It looks for changes on input signals to evaluate outputs. No change in output if there is no change in input signals
 Here is the flow of frondend design:
 
-![Capture1](https://user-images.githubusercontent.com/104454253/166088866-80a4e792-7db7-4bf2-b3b5-b4b9b92452a8.JPG)
+![image](https://user-images.githubusercontent.com/110079634/183134769-8b8603d7-2417-496d-9ee1-6d1dc89f46f2.png)
 
 ## 2.2 Introduction to open source simulator iverilog and gtkwave
 **iverilog**: iverilog stands for Icarus Verilog. Icarus Verilog is an implementation of the Verilog hardware description language. It supports the 1995, 2001 and 2005 versions of the standard, portions of SystemVerilog, and some extensions.
