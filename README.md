@@ -197,13 +197,6 @@ Below is the snippet showing the synthesis results and synthesized circuit for m
 
 ![Yosys3](https://user-images.githubusercontent.com/104454253/166176463-19a38375-d3e8-42b4-8de1-65aaa3ecb35e.JPG)
 
-**Netlist Code**
-
-![yosys4](https://user-images.githubusercontent.com/104454253/166101176-50cf9b44-3ca7-4d1c-bb2e-392498d82ddd.JPG)
-
-**Simplified netlist code**: This code consisits of additional switch. To further simplify, we use below command
-
-![Yosys5](https://user-images.githubusercontent.com/104454253/166101451-5d963a17-4cb7-47fd-818d-c7d34df2665c.JPG)
 
 # 3. DAY2-Timing libs, hierarchical, flat synthesis, efficient flop coding styles
 
