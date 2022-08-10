@@ -187,7 +187,7 @@ Invoking Yosys:
 ![Screenshot from 2022-08-10 14-40-02](https://user-images.githubusercontent.com/110079634/183863450-a05a3e9d-12fd-487e-a718-e65d6c5f14a9.png)
 Snippet below illustrates reading .lib, design and choosing the module to synthesize:
 
-![yosys1](https://user-images.githubusercontent.com/104454253/166100005-8a2e45e9-2977-4743-b475-515996a046d9.JPG)
+![Screenshot from 2022-08-10 14-24-29](https://user-images.githubusercontent.com/110079634/183864582-57b12a06-5bb1-49b4-bda5-7bec4314f898.png)
 
 **Generating Netlist**: The logic of good_mux will be realizable using gates in the sky130_fd_sc_hd__tt_025C_1v80.lib file.
 
