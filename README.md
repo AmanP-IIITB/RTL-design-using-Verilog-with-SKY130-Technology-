@@ -141,8 +141,7 @@ Below are the commands to perform above synthesis.
 
 **Operational flow of Yosys Synthesizer**
 
-![Synthesizer](https://user-images.githubusercontent.com/104454253/166094901-27c70c0d-8ef2-4a34-a4b2-7307af492698.JPG)
-
+![Screenshot from 2022-08-10 14-40-02](https://user-images.githubusercontent.com/110079634/183863450-a05a3e9d-12fd-487e-a718-e65d6c5f14a9.png)
 **Verification of Synthesized design**: In order to make sure that there are no errors in the netlist, we'll have to verify the synthesized circuit. The netlist verification flow can be seen in the below image:
 
 ![Synthesisgtkwave](https://user-images.githubusercontent.com/104454253/166095185-f82dbbe0-afb4-43ac-8ec6-6b75491d6b58.JPG)
@@ -188,8 +187,7 @@ Below is an illustration of Synthesis.
 
 Invoking Yosys:
 
-![invoking yosys](https://user-images.githubusercontent.com/104454253/166099491-8ee3ad06-1b1e-4483-9451-2372f08aab9b.JPG)
-
+![Screenshot from 2022-08-10 14-40-02](https://user-images.githubusercontent.com/110079634/183863450-a05a3e9d-12fd-487e-a718-e65d6c5f14a9.png)
 Snippet below illustrates reading .lib, design and choosing the module to synthesize:
 
 ![yosys1](https://user-images.githubusercontent.com/104454253/166100005-8a2e45e9-2977-4743-b475-515996a046d9.JPG)
