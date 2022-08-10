@@ -139,9 +139,6 @@ Below are the commands to perform above synthesis.
 - .lib        - read_liberty
 - netlist file- write_verilog
 
-**Operational flow of Yosys Synthesizer**
-
-![Screenshot from 2022-08-10 14-40-02](https://user-images.githubusercontent.com/110079634/183863450-a05a3e9d-12fd-487e-a718-e65d6c5f14a9.png)
 **Verification of Synthesized design**: In order to make sure that there are no errors in the netlist, we'll have to verify the synthesized circuit. The netlist verification flow can be seen in the below image:
 
 ![Synthesisgtkwave](https://user-images.githubusercontent.com/104454253/166095185-f82dbbe0-afb4-43ac-8ec6-6b75491d6b58.JPG)
