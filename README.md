@@ -191,7 +191,7 @@ Snippet below illustrates reading .lib, design and choosing the module to synthe
 
 **Generating Netlist**: The logic of good_mux will be realizable using gates in the sky130_fd_sc_hd__tt_025C_1v80.lib file.
 
-![yosys2](https://user-images.githubusercontent.com/104454253/166100160-7b8c5847-62b4-49e9-9a90-c4f4c8ff840f.JPG)
+![Screenshot from 2022-08-05 23-28-55](https://user-images.githubusercontent.com/110079634/183875536-07bfa502-73ba-43f3-9614-a6867c997fa2.png)
 
 Below is the snippet showing the synthesis results and synthesized circuit for multiplexer.
 
