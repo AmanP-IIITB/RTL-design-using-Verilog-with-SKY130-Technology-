@@ -197,4 +197,14 @@ Below is the snippet showing the synthesis results and synthesized circuit for m
 
 ![Yosys3](https://user-images.githubusercontent.com/104454253/166176463-19a38375-d3e8-42b4-8de1-65aaa3ecb35e.JPG)
 
+# 3. Day 2 - Timing libs, Hierarchical v/s sunthesis and efficient flop coding styles
 
+## 3.1 - Introduction to .LIB Files
+Lib file is basically a timing model file which contains cell delay, cell transition time, setup and hold time requirement of the cell. So Lib file basically contains the timing and electrical characteristics of a cell or macros. It conveys informatin regarding process used, operating voltage and the temperature.<br />
+We can watch the behavioral equation of an gate of sky130 library in its .v file inside the verilog_model folder.<br />
+For example, if we check th areas of AND gates : *and2_0* *and2_2* and *and2_4*, the one with higher area has wider MOSFETs => higher current or charging capacity => They are faster and higher power requirement.
+
+## 3.2 LAB- Hierarchical synthesis and flat synthesis
+
+If we have used submodules inside our main module. Then in _heirarchical synthesis_, the heirarchy is preserved by using submodules. We will see submodules instead of circuits in our netlist and the flowchart.<br/>
+_Flatten_ is the command used for flat synthesis before the *show* command. _In flat synthesis_, submodules are represented by their respective logical expressions. We will see cells instead of submodules in our netlist.
